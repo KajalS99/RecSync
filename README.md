@@ -26,6 +26,7 @@ To create a simple and functional system that allows users to:
 
 ## 🗂️ Project Structure
 
+``` 
 RecSync/
 ├── db.php # Database connection file
 ├── index.php # Main page – lists all reservations
@@ -38,7 +39,7 @@ RecSync/
 │ └── RecSync_Connection_Success.png
 ├── reservation.sql # Optional SQL script to create the table
 └── README.md # Project documentation
-
+``` 
 
 ---
 
