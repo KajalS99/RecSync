@@ -73,7 +73,6 @@ checked_in BOOLEAN DEFAULT FALSE
 http://localhost/RecSync/index.php
 
 ---
----
 
 ## 🖼️ User Interface Preview
 
@@ -81,11 +80,11 @@ Here’s what the RecSync system looks like when running locally:
 
 ### 🔹 Homepage
 
-![RecSync Homepage UI](images/RecSync_Home_UI.png)
+[RecSync Homepage UI](images/RecSync_Home_UI.png)
 
 ### 🔹 Database Connection Status
 
-![Connection Success Screen](images/RecSync_Connection_Success.png)
+[Connection Success Screen](images/RecSync_Connection_Success.png)
 
 ## 🙋‍♀️ Author
 
