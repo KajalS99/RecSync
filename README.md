@@ -70,8 +70,8 @@ guest_count INT NOT NULL,
 checked_in BOOLEAN DEFAULT FALSE
 );
 
-6. Open your browser and go to:
-http://localhost/RecSync/index.php
+6. Open your browser and go to:  
+   `http://localhost/RecSync/index.php`
 
 ---
 
@@ -87,6 +87,8 @@ Here’s what the RecSync system looks like when running locally:
 
 ![Connection Success Screen](images/RecSync_Connection_Success.png)
 
+---
+
 ## 🙋‍♀️ Author
 
 **Kajal Singh**  
@@ -98,5 +100,6 @@ Student | Data Analytics & Information Systems
 ---
 
 > “Built to learn, scaled to serve.” 🌱
+
 
 
