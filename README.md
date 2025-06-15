@@ -33,8 +33,11 @@ RecSync/
 ├── update.php # Edit and update existing reservations
 ├── delete.php # Delete a reservation
 ├── filter.php # Filter/search reservations
-├── README.md # Project documentation
-└── reservation.sql # (optional) Table creation script
+├── images/ # Folder containing UI screenshots
+│ ├── RecSync_Home_UI.png
+│ └── RecSync_Connection_Success.png
+├── reservation.sql # Optional SQL script to create the table
+└── README.md # Project documentation
 
 
 ---
